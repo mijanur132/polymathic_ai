@@ -38,7 +38,6 @@
 - Created a `plots` directory to organize and save key data distribution visualizations, including:
   - Comparison of feature-wise mean and standard deviation for train, validation, and test datasets.
   - PCA and t-SNE visualizations of train, validation, and test sets.
-  - Example images: one representative sample each from the train and validation sets.
 
 ---
 
